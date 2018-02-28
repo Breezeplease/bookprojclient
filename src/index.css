@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.genre{
+  word-wrap: break-word;
+}
+td{
+  width: 1em
+}
+table{
+  table-layout: fixed;
+  width: 1em
+}
